@@ -1,0 +1,11 @@
+[
+    {
+        "years": "2023-Present",
+        "tenure": "1.7 years",
+        "company": "Deloitte",
+        "role": "Software Engineer",
+        "skills": ["React", ".NET CORE","C#", "SQL Server", "JavaScript"],
+        "description": "Developing Full Stack Systems for our Client leveraging .Net Core and REACT",
+        "fullDescription": "•Developed a .Net Core microservice from scratch leveraging Azure cloud services to perform business logic validations and optimizations before communicating with a third-party application. Successfully replaced a legacy orchestration tool, resulting in its decommissioning and cost savings for the client. • Developed a .Net based data replication utility that automated the replication of data from new tables to legacy tables, significantly reducing manual effort. • Implemented Event Driven Architecture leveraging Message-Queueing (Azure Service Bus), which allowed us to communicate between our microservices and reduce the average response time for API calls from microservices to an average of 10ms and facilitate asynchronous communication. • Reduced number of SQL stored procedures by 50% for a microservice and increased performance of queries by translating stored procedures into C# logic using ORM’s like Entity Framework inside the microservices. • Developed multiple common UI utilities using REACT Js and JavaScript and integrated it with the backend APIs to complete multiple end to end screen flows."
+    }
+]

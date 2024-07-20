@@ -1,0 +1,20 @@
+[
+  {
+    "name": "POS Application",
+    "description": "A personal portfolio website built with React and Tailwind CSS.",
+    "longDescription": "The MERN stack POS (Point of Sale) application is a modern web-based solution built with MongoDB, Express.js, React, and Node.js. It offers a comprehensive system for managing sales transactions, inventory, and customer data. MongoDB provides a flexible database for storing product and sales information, while Express.js handles server-side logic and API requests. React delivers a dynamic and responsive user interface for seamless interaction, and Node.js powers the backend with efficient handling of concurrent requests. The application supports real-time updates, user authentication, and intuitive reporting features, making it an ideal tool for retail businesses seeking efficient and scalable point-of-sale management.",
+    "technologies": ["React", "Node Js", "Express JS", "MongoDB"],
+    "liveLink": "",
+    "codeLink": "https://github.com/AnkitBanerjee007/POS-MERN-Application",
+    "image": "../assets/images/Project1.jpg"
+  },
+  {
+    "name": "Portfolio Website",
+    "description": "A personal portfolio website built with React and Tailwind CSS.",
+    "longDescription": "This portfolio website, built with React and Tailwind CSS, highlights a user’s skills and projects in a modern, responsive design. Key features include a sticky bottom navbar for easy navigation, interactive tabs for experience, skills, and education, and project cards with live and code links. Each project card includes a detailed description and a scrollable modal for more in-depth information. The site employs a typewriter effect for dynamic text presentation and integrates FormSubmit for email handling. Social media icons are included for connectivity. The layout ensures a polished and engaging experience across all devices and screen sizes.",
+    "technologies": ["React", "Tailwind CSS", "JavaScript"],
+    "liveLink": "https://example.com",
+    "codeLink": "https://github.com/example/e-commerce-store",
+    "image": "../assets/images/Project2.jpg"
+  }
+]

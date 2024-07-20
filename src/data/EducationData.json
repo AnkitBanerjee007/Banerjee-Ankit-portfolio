@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2018-2022",
+    "school": "SRM Institute of Science and Technology",
+    "board": "Bachelors of Technology",
+    "percentage": "9.63(GPA)",
+    "description": "Pursued a Bachelor of Science in ECE with a focus on software development and data structures."
+  },
+  {
+    "date": "2016-2018",
+    "school": "Holy Home",
+    "board": "ISC",
+    "percentage": "91.25%",
+    "description": "Completed Higher Secondary education with a focus on science subjects, including Physics, Chemistry, and Mathematics."
+  },
+  {
+    "date": "2003-2016",
+    "school": "Gospel Home School",
+    "board": "ICSE",
+    "percentage": "92%",
+    "description": "Completed Secondary education with a focus on Science and Arts."
+  }
+]
